@@ -1,4 +1,4 @@
-package com.github.simplesteph.kafka.tutorial4;
+package com.github.diyabh21.kafka.tutorial4;
 
 import com.google.gson.JsonParser;
 import org.apache.kafka.common.protocol.types.Field;

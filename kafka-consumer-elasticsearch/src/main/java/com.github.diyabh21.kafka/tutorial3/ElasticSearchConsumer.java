@@ -1,4 +1,4 @@
-package com.github.simplesteph.kafka.tutorial3;
+package com.github.diyabh21.kafka.tutorial3;
 
 import com.google.gson.JsonParser;
 import org.apache.http.HttpHost;
